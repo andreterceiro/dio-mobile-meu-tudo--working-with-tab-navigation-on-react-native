@@ -29,3 +29,5 @@ To setup an application please see [this repository](https://github.com/andreter
 Teacher said that he do slightly different from the documentation. From the documentation:
 
 ![part of the documentation - bottom tabs](images/part-of-the-documentation--bottom-tabs.png)
+
+Teacher created a file routes/bottom-tabs-routes.tsx (with a slightly typo - botom).
