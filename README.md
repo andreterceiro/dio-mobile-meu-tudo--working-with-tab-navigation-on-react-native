@@ -23,3 +23,5 @@ Teacher instructed us to run the following command **after** initialized an appl
 ```
 npm install @react-navigation/botton-tabs
 ```
+
+To setup an application please see [this repository](https://github.com/andreterceiro/dio-mobile-meu-tudo--working-with-stack-navigation-in-react-native).
