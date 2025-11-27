@@ -26,4 +26,6 @@ npm install @react-navigation/botton-tabs
 
 To setup an application please see [this repository](https://github.com/andreterceiro/dio-mobile-meu-tudo--working-with-stack-navigation-in-react-native).
 
-Teacher said that he do slightly different from the documentation.
+Teacher said that he do slightly different from the documentation. From the documentation:
+
+![part of the documentation - bottom tabs](images/part-of-the-documentation--bottom-tabs.png)
