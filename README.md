@@ -9,3 +9,8 @@ Teacher said that tab navigation is similar to stack navigation.
 ## Material bottom
 
 ![material bottom tabs navigation - illustration](images/material-bottom-tabs-navigation--illustration.png)
+
+
+# Material top
+
+![material top tabs navigation - illustration](images/material-bottom-tabs-navigation--illustration.png)
