@@ -63,3 +63,5 @@ npm run android
 **OBS:** you need to run this command inside the created app directory.
 
 As you can see in the first demo app, the bottom tabs navigation was created on this app, but it wasn't me that created this navigation on the app. It was the command `npx create-expo-app botttom-tabs`.
+
+At least initially I did not understand the example because as you can see in some demo code of the [documentation page](https://reactnavigation.org/docs/bottom-tab-navigator/), the constant "MyTabs" seems not be used.
