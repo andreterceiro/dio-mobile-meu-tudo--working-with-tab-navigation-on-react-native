@@ -139,4 +139,6 @@ const MyTabs = createBottomTabNavigator({
 
 Teacher did a very small example. He did not create the screens (we already have the screens from the code we developed [when studied stack navigation](https://github.com/andreterceiro/dio-mobile-meu-tudo--working-with-stack-navigation-in-react-native/)).
 
-First, he created a file src/routes/bottom-tabs.routes.tsx.
+First, he created a file src/routes/bottom-tabs.routes.tsx:
+
+![bottom-tabs.routes.tsx](images/bottom-tabs-routes-tsx.png)
