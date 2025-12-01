@@ -53,3 +53,9 @@ For the second app (tests/02/bottom), I used the parameter -t and selected the t
 ```
 npx create-expo-app botttom -t
 ```
+
+You can run the app with the apps Vysor (to see the app in the PC) and Expo through this commmand:
+
+```
+npm run android
+```
