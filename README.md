@@ -31,3 +31,10 @@ Teacher said that he do slightly different from the documentation. From the docu
 ![part of the documentation - bottom tabs](images/part-of-the-documentation--bottom-tabs.png)
 
 Teacher created a file routes/bottom-tabs-routes.tsx (with a slightly typo - botom).
+
+
+# Most simple example
+
+Teacher said that this is the most simple example of this type of navigation:
+
+![simplest example](images/simplest-example.png)
