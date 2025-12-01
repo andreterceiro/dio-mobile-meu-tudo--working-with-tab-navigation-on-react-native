@@ -150,3 +150,5 @@ Second, he created a file src/routes/index.tsx. The app changed from:
 To:
 
 ![calling bottom.tabs.routes.tsx from index.tsx](images/calling-bottom-tabs-routes-tsx-from-index-tsx.png)
+
+**OBS:** both files commented above are stored inside the directory "src/routes" in the Teacher's example.
