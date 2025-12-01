@@ -143,4 +143,6 @@ First, he created a file src/routes/bottom-tabs.routes.tsx:
 
 ![bottom-tabs.routes.tsx](images/bottom-tabs-routes-tsx.png)
 
-Second, he created a file src/routes/index.tsx.
+Second, he created a file src/routes/index.tsx. The app changed from:
+
+![calling stack.routes.tsx from index.tsx](images/calling-stack-routes-tsx-from-index-tsx.png)
