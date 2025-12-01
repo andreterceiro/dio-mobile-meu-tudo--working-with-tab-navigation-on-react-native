@@ -42,4 +42,8 @@ Teacher said that this is the most simple example of this type of navigation:
 
 # Test apps
 
-I also explored [the documentation](https://reactnavigation.org/docs/bottom-tab-navigator/) and created 2 test apps.
+I also explored [the documentation](https://reactnavigation.org/docs/bottom-tab-navigator/) and created 2 test apps. First, tests/01/botton-tabs, I created with the command:
+
+```
+npx create-expo-app botttom-tabs
+```
