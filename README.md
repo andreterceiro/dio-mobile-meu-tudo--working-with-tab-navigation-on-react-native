@@ -47,3 +47,9 @@ I also explored [the documentation](https://reactnavigation.org/docs/bottom-tab-
 ```
 npx create-expo-app botttom-tabs
 ```
+
+For the second app (tests/02/bottom), I used the parameter -t and selected the template "blank (Typescript)":
+
+```
+npx create-expo-app botttom -t
+```
