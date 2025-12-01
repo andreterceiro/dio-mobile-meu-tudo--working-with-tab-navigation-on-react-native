@@ -39,4 +39,7 @@ Teacher said that this is the most simple example of this type of navigation:
 
 ![simplest example](images/simplest-example.png)
 
-I also explored [the documentation](https://reactnavigation.org/docs/bottom-tab-navigator/) and created 2 demo apps.
+
+# Test apps
+
+I also explored [the documentation](https://reactnavigation.org/docs/bottom-tab-navigator/) and created 2 test apps.
