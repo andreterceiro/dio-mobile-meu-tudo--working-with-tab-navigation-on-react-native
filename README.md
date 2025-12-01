@@ -59,3 +59,5 @@ You can run the app with the apps Vysor (to see the app in the PC) and Expo thro
 ```
 npm run android
 ```
+
+**OBS:** you need to run this command inside the created app directory.
