@@ -158,8 +158,8 @@ To:
 
 Teacher change a code from:
 
-![destructuring - before](images/destructuring-before.png)
+![destructuring - before](images/destructuring-before_.png)
 
 To:
 
-![destructuring - after](images/destructuring-after.png)
+![destructuring - after](images/destructuring-after_.png)
