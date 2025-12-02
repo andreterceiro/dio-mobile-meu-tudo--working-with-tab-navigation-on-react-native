@@ -184,3 +184,10 @@ Teacher sais that you can find for an icon in the documentation:
 ## Installation
 
 Teacher said that you don't need to install anything, but if the code don't work you can try to install `@expo/vector-icons`.
+
+
+## Importing
+
+You will need to make an import. As you can see in the next image, VSCode will show a lot of components when destructuring on importing:
+
+![destructuring on importing](images/destructuring-on-importing.png)
