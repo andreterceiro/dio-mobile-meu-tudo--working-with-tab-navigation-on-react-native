@@ -163,3 +163,5 @@ Teacher change a code from:
 To:
 
 ![destructuring - after](images/destructuring-after_.png)
+
+**Please pay attention to the line 6.**
