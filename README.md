@@ -202,3 +202,7 @@ Teacher selected (used inside the braces on line 5) **"Material Community Icons"
 Teacher personalized this way:
 
 ![personalizing the icons - teacher way](images/personalizing-the-icons--teacher-way.png)
+
+After, he showed a way that he got from the documentation:
+
+![personalizing the icons - documentation way](images/personalizing-the-icons--documentation-way.png)
