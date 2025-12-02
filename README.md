@@ -165,3 +165,10 @@ To:
 ![destructuring - after](images/destructuring-after_.png)
 
 **Please pay attention to the line 6.**
+
+
+# Personalizing the icons
+
+Teacher find in the documentation by **@expo/vector-icons**:
+
+![vector icons in the documentation](images/vector-icons-in-the-documentation.png)
