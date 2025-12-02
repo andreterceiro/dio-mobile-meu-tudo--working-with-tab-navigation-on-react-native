@@ -179,3 +179,8 @@ Teacher find in the documentation by **@expo/vector-icons**:
 Teacher sais that you can find for an icon in the documentation:
 
 ![finding for an icon in the documentation](images/finding-for-an-icon-in-the-documentation.png)
+
+
+## Installation
+
+Teacher said that you don't need to install anything, but if the code don't work you can try to install `@expo/vector-icons`.
