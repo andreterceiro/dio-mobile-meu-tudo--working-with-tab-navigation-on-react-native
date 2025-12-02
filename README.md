@@ -172,3 +172,10 @@ To:
 Teacher find in the documentation by **@expo/vector-icons**:
 
 ![vector icons in the documentation](images/vector-icons-in-the-documentation.png)
+
+
+## Finding for an icon in the documentation
+
+Teacher sais that you can find for an icon in the documentation:
+
+![finding for an icon in the documentation](images/finding-for-an-icon-in-the-documentation.png)
