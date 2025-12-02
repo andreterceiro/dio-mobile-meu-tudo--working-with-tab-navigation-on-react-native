@@ -206,3 +206,5 @@ Teacher personalized this way:
 After, he showed a way that he got from the documentation:
 
 ![personalizing the icons - documentation way](images/personalizing-the-icons--documentation-way.png)
+
+**A comment: in the last case teacher needed to restart the app, closing the app and ran it again with the command `npm run start`**
