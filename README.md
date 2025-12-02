@@ -195,3 +195,10 @@ You will need to make an import. As you can see in the next image, VSCode will s
 ![destructuring on importing](images/destructuring-on-importing.png)
 
 Teacher selected (used inside the braces on line 5) **"Material Community Icons"**.
+
+
+## Ways to personalize the icon in the bottom bar
+
+Teacher personalized this way:
+
+![personalizing the icons - teacher way](images/personalizing-the-icons--teacher-way.png)
