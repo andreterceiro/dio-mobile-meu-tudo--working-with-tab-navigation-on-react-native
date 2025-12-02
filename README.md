@@ -227,4 +227,9 @@ After, he showed a way that he got from the documentation:
 
 # Repository related to the classes
 
-[link](https://github.com/digitalinnovationone/trilha-react-native-navigation-tabs)
+[Link](https://github.com/digitalinnovationone/trilha-react-native-navigation-tabs)
+
+
+# Official tutorial
+
+[Link](https://reactnavigation.org/docs/tab-based-navigation/)
