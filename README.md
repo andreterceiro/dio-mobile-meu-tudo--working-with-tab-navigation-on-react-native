@@ -152,3 +152,10 @@ To:
 ![calling bottom.tabs.routes.tsx from index.tsx](images/calling-bottom-tabs-routes-tsx-from-index-tsx.png)
 
 **OBS:** both files commented above are stored inside the directory "src/routes" in the Teacher's example.
+
+
+# Destrucuring the value returned by the function creatingBottomTabNavgator()
+
+Teacher change a code from:
+
+![destructuring - before](images/destructuring-before.png)
