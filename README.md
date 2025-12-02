@@ -191,3 +191,5 @@ Teacher said that you don't need to install anything, but if the code don't work
 You will need to make an import. As you can see in the next image, VSCode will show a lot of components when destructuring on importing:
 
 ![destructuring on importing](images/destructuring-on-importing.png)
+
+Teacher selected (used inside the braces on line 5) **"Material Community Icons"**.
