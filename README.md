@@ -180,6 +180,8 @@ Teacher sais that you can find for an icon in the documentation:
 
 ![finding for an icon in the documentation](images/finding-for-an-icon-in-the-documentation.png)
 
+A comment: teacher showed that you can see the right link finding in Google by "expo icons".
+
 
 ## Installation
 
