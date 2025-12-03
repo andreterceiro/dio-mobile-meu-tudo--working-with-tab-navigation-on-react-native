@@ -220,6 +220,7 @@ After, when you explore the documentation of the icon package, locate the icon a
 
 ![importing an icon family](images/importing-an-icon-family.png)
 
+And in the second instruction in the image we can see how to use the icon.
 
 
 
