@@ -210,7 +210,9 @@ After, he showed a way that he got from the documentation:
 **A comment: in the last case teacher needed to restart the app, closing the app and ran it again with the command `npm run start`**
 
 
+## Different types of icons in the documentation
 
+You can find for an icon package and after for an specific icon in the documentation.
 
 
 
