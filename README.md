@@ -218,7 +218,7 @@ You can find for an icon package and after for an specific icon in the documenta
 
 After, when you explore the documentation of the icon package, locate the icon and click on it, you will see how to import it on the application.
 
-
+![importing an icon family](images/importing-an-icon-family.png)
 
 
 
