@@ -224,6 +224,7 @@ And in the second instruction in the image we can see how to use the icon.
 
 Inside the sabe library of icons (vector icons) you can use different types of icons packages.
 
+Teacher said that we instruct us to avoid this pratice, but if you want you can do this.
 
 
 
