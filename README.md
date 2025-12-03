@@ -237,7 +237,6 @@ Teacher said that we instruct us to avoid this pratice, but if you want you can 
 - Teacher said that the hints are recommendation for most of the cases, you must not obey some hint in a specific scenario.
 
 
-
 # Repository related to the classes
 
 [Link](https://github.com/digitalinnovationone/trilha-react-native-navigation-tabs)
