@@ -216,6 +216,7 @@ You can find for an icon package and after for an specific icon in the documenta
 
 ![finding for an icon package in the documentation](images/finding-for-an-icon-package-in-the-documentation.png)
 
+After, when you explore the documentation of the icon package, locate the icon and click on it, you will see how to import it on the application.
 
 
 
