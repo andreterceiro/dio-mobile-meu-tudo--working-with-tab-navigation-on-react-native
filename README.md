@@ -222,6 +222,7 @@ After, when you explore the documentation of the icon package, locate the icon a
 
 And in the second instruction in the image we can see how to use the icon.
 
+Inside the sabe library of icons (vector icons) you can use different types of icons packages.
 
 
 
