@@ -227,7 +227,9 @@ Inside the sabe library of icons (vector icons) you can use different types of i
 Teacher said that we instruct us to avoid this pratice, but if you want you can do this.
 
 
+# Teacher hints
 
+- Put focus on golden actions, avoid excess of navigation options;
 
 
 
