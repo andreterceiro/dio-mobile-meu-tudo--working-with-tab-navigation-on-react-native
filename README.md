@@ -214,7 +214,7 @@ After, he showed a way that he got from the documentation:
 
 You can find for an icon package and after for an specific icon in the documentation.
 
-
+![finding for an icon package in the documentation](images/finding-for-an-icon-package-in-the-documentation.png)
 
 
 
