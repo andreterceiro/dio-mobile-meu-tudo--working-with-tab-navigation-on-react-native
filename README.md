@@ -231,6 +231,7 @@ Teacher said that we instruct us to avoid this pratice, but if you want you can 
 
 - Put focus on golden actions, avoid excess of navigation options;
 - The total of maximun recommended golden actions by the teacher is 5 or 6 golden actions;
+- Use only one icon package per time. Keep in mind, material icons as example provide several icon packages at the same time, you have to specify the icont package on importing;
 
 
 
