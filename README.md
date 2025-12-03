@@ -232,7 +232,8 @@ Teacher said that we instruct us to avoid this pratice, but if you want you can 
 - Put focus on golden actions, avoid excess of navigation options;
 - The total of maximun recommended golden actions by the teacher is 5 or 6 golden actions;
 - Use only one icon package per time. Keep in mind, vector icons as example provide several icon packages at the same time, you have to specify the icon package on importing (as example material icons or font awesome);
-- Teacher said that the focus of an action can be to access a screen to read a text, but he think that is better that a golden action be directed to a screen that request an interaction for the user.
+- Teacher said that the focus of an action can be to access a screen to read a text, but he think that is better that a golden action be directed to a screen that request an interaction for the user;
+- Teacher said that the hints are recommendation for most of the cases, you must not obey some hint in a specific scenario.
 
 
 
